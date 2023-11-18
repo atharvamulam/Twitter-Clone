@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dygzdvfho/image/upload/v1671628254/shashwat-the-dictator-03_dfsnho.jpg",
+        "name": "Shashwat Tripathi",
+        "username": "SupremeLeader",
+        "time": "4 mins ago",
+        "tweet": "What is the point of bringing a version of the Hunger Games to Wadiya? North Korea has done it literally."
+    },
+    {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dygzdvfho/image/upload/v1671629023/GR_2_haqchk.png",
+        "name": "Gaurang Raorane",
+        "username": "jawrang",
+        "time": "7 mins ago",
+        "tweet": "It's your life make it Large!!"
+    },
+    {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dygzdvfho/image/upload/v1671629042/GA_x2xo4q.jpg",
+        "name": "Gargi Angne",
+        "username": "GA",
+        "time": "45 mins ago",
+        "tweet": "Mi Maren!!"
+    },
+    {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dygzdvfho/image/upload/v1671629445/Shubham_jysaxa.jpg",
+        "name": "Shubham Nakashe",
+        "username": "shubhnak",
+        "time": "35 mins ago",
+        "tweet": "Pn Mala kharab jokes marayla jasta majja yete🤡"
+    }
+]
